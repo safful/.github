@@ -1,7 +1,8 @@
 # Safful: Securing the Smart Contract
 
-## Smart Contracts Auditing Services, DeFi Safety Audits, Attack monitoring and blocking (EVM).
+> Smart Contracts Auditing Services, DeFi Safety Audits, Attack monitoring and blocking (EVM).
 
+## Links
 - [Website](https://www.safful.com/)
 - [Twitter](https://twitter.com/saffulcom)
 
