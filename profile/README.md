@@ -7,7 +7,7 @@
 - [Website](https://www.safful.com/)
 - [Twitter](https://twitter.com/saffulcom)
 
-## 🍿 Repos
+## 🍿 Repositories
 - [Web3 Security Tools](https://github.com/safful/Web3-Security-Tools)
 - [DeFi Attack Vectors](https://github.com/safful/DeFi-Attack-Vectors)
 - [NFT Attack Vectors](https://github.com/safful/NFT-Attack-Vectors)
